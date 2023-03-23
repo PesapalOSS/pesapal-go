@@ -1,4 +1,4 @@
-package pesapal
+package main
 
 import (
 	"bytes"
