@@ -1,4 +1,4 @@
-package main
+package pesapal
 
 import (
 	"encoding/json"
